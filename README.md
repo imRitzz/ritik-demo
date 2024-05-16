@@ -1,4 +1,4 @@
 # ritik-demo
 This is my first repository
 <br>
-Author - Ritik soni
+Author - Ritik soni  Covetus technology
